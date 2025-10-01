@@ -1,7 +1,7 @@
-# Mission 3 Front End React
+# Mission 2 Advance Front End React
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -19,7 +19,7 @@ Aplikasi web front-end berintegerasi dengan API yang dirancang untuk memungkinka
 ## Teknologi yang Digunakan
 
 -   **[React.js](https://reactjs.org/)**: Library JavaScript untuk membangun antarmuka pengguna yang interaktif.
--   **[Zustand](https://github.com/pmndrs/zustand)**: Solusi manajemen state yang minimalis dan cepat untuk React.
+-   **[Redux](https://redux.js.org/)**: Kerangka kerja manajemen state yang kuat dan terstruktur untuk aplikasi JavaScript.
 -   **[Axios](https://axios-http.com/)**: HTTP client berbasis Promise untuk melakukan interaksi dengan API eksternal.
 -   **[React Router DOM](https://reactrouter.com/)**: Untuk menangani routing di sisi klien.
 -   **[Tailwind CSS](https://tailwindcss.com/)**: Framework CSS utility-first untuk desain antarmuka yang cepat dan kustom.
